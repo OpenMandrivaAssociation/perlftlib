@@ -1,7 +1,7 @@
 Summary:	Libraries to use the FreeType library with Perl
 Name:		perlftlib
 Version:	1.2
-Release:	21mdk
+Release:	%mkrel 21
 License:	GPL
 Group:		Development/Perl
 BuildRequires:	freetype-devel perl-devel
