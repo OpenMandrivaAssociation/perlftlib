@@ -14,7 +14,6 @@ Patch4:		perlftlib-1.2-perl_pollute.patch.bz2
 Patch5:         perlftlib-1.2-handle-DESTDIR.patch.bz2
 
 Requires:	perl
-BuildRoot:	%_tmppath/%name-%version-%release-root
 
 %description
 This is a package of libraries to use the FreeType library from the perl
